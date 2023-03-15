@@ -1,0 +1,215 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    font-family: Roboto,arial;
+}
+
+p, a , span {
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.heading{
+    text-align: center;
+    color: #4d4d4d;
+    padding-top: 30px;
+}
+
+.container {
+    box-sizing: border-box;
+    width: 100%;
+    height: 550px;
+    margin-bottom: 50px;
+
+}
+
+.about-us {
+  padding: 100px; 
+  padding-top: 50px;
+    
+}
+
+.about-content1{
+   margin-left: 650px;
+   padding: 100px;
+   margin-top: -550px;
+}
+
+.explore {
+    display: flex;
+    justify-content: center;
+}
+
+.explore-button {
+    font-size: 20px;
+    background-color: #0083c4;
+    color: white;
+    height: 60px;
+    margin-top: 30px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 180px;
+    padding-right: 180px;
+    border-radius: 4px;
+}
+
+.paragraph {
+    font-size: 15px;
+    line-height: 27px;
+}
+
+
+.container2{
+    box-sizing: border-box;
+    width: 100%;
+    height:550px;
+    margin-top: -60px;
+    background-image: linear-gradient(to right, rgb(29, 179, 228),white,  rgb(233, 169, 179));
+}
+
+
+.con{
+    border: 1px solid black;
+    box-sizing: border-box;
+    width: 100%;
+    height: 700px;
+    margin-bottom: 80px;
+    padding-top: 120px;
+    border: none;
+}
+
+.santos{
+    padding-top: 10px;
+    font-size: 23px;
+}
+
+.sevino{
+    padding-top: 100px;
+}
+    
+
+
+.contact {
+    text-align: center;
+    line-height: 50px;
+}
+
+.son{
+    margin-left: 41%;
+    bottom: 320px;
+    position: relative;
+
+}
+
+.p2{
+    background-color: red;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    margin-left: 42%;
+    bottom: 200px;
+    position: relative;
+}
+
+.box1{
+    border: 1px solid black;
+    background-color: rgb(52, 52, 241);
+    color: white;
+    width: 250px;
+    height:320px ;
+    padding-bottom: 50px;
+    margin-left: 150px; 
+    padding-top: 20px;
+    padding: 55px;
+    border-radius:1% ;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    
+}
+
+.num{
+    padding-top: 30px;
+    line-height: 25px;
+    font-size: 60px;
+}
+
+.icon{
+    line-height: 80px;
+    margin-left: -30px;
+}
+
+
+.box2{
+    display: grid;
+    grid-template-columns: 4fr 4fr ;
+    grid-gap: 50px;
+    margin: 100px;
+    color:black;
+    margin-left: 550px;
+    margin-top: -430px;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 20px;
+}
+
+
+
+input[type=text] {
+    width: 100%;
+    padding: 3px 3px;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid rgb(185, 178, 178);
+  }
+
+
+ .word{
+    border: 1px solid black;
+    width: 70%;
+    height: 320PX;
+    margin-left: 170PX;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: -410px;
+    border: none;
+    text-align: center;
+    
+    
+    
+ }
+
+ .radio{
+    margin-left: 550px;
+    /* margin-top: -430px; */
+    padding-top: -750px;
+ }
+ .border{
+    border: none;
+    border-bottom: 1px solid rgb(185, 178, 178);
+    width: 780px;
+    margin-left: 567px;
+    margin-top: 20px;
+ }
+
+ .ps{
+    background-color: red;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    margin-left: 82%;
+    margin-top: 20px;
+ }
+ 
